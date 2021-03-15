@@ -1,4 +1,4 @@
-# 基于github action的京东自动化签到
+# 基于Github Action的京东自动化签到
 
 ## 介绍
 
